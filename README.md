@@ -1,4 +1,4 @@
-# [Codility Lessons](https://codility.com/programmers/lessons/) JavaScript Solutions.
+## [Codility Lessons](https://codility.com/programmers/lessons/)  - JavaScript Solutions.
 
 Lessons
 ---------------
