@@ -18,5 +18,5 @@ Rotate an array to the right by a given number of steps.
 
 ### Time Complexity  
 [100% TapeEquilibrium](https://github.com/alexpechkarev/codility-lessons-js/blob/master/TapeEquilibrium.js)  
-Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
+Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.  
 [*View on Codility*](https://codility.com/programmers/task/tape_equilibrium/)    
