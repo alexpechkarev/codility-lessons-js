@@ -5,15 +5,18 @@ Lessons
 ### Iterations  
 [100% Solution - BinaryGap](https://github.com/alexpechkarev/codility-lessons-js/blob/master/BinaryGap.js)  
 Find longest sequence of zeros in binary representation of an integer.  
-[*Try it on Codility*](https://codility.com/programmers/task/odd_occurrences_in_array/)    
+[*View on Codility*](https://codility.com/programmers/task/binary_gap/)    
 
 ### Arrays  
 [100% OddOccurrencesInArray](https://github.com/alexpechkarev/codility-lessons-js/blob/master/OddOccurrencesInArray.js)  
 Find value that occurs in odd number of elements  
+[*View on Codility*](https://codility.com/programmers/task/odd_occurrences_in_array/)    
 
 [100% CyclicRotation](https://github.com/alexpechkarev/codility-lessons-js/blob/master/CyclicRotation.js)  
 Rotate an array to the right by a given number of steps.  
+[*View on Codility*](https://codility.com/programmers/task/cyclic_rotation/)    
 
 ### Time Complexity  
 [100% TapeEquilibrium](https://github.com/alexpechkarev/codility-lessons-js/blob/master/TapeEquilibrium.js)  
 Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
+[*View on Codility*](https://codility.com/programmers/task/tape_equilibrium/)    
