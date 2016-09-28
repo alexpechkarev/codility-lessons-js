@@ -4,7 +4,7 @@
 * [100%] PermMissingElem
 * https://codility.com/programmers/task/perm_missing_elem/
 * Find the missing element in a given permutation.
-* Detected time complexity: O(1)
+* Detected time complexity: O(N)
 *
 * 28th September 2016
 */
