@@ -20,3 +20,7 @@ Rotate an array to the right by a given number of steps.
 [100% TapeEquilibrium](https://github.com/alexpechkarev/codility-lessons-js/blob/master/TapeEquilibrium.js)  
 Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.  
 [*View on Codility*](https://codility.com/programmers/task/tape_equilibrium/)    
+
+[100% FrogJmp](https://github.com/alexpechkarev/codility-lessons-js/blob/master/FrogJmp.js)  
+Count minimal number of jumps from position X to Y.  
+[*View on Codility*](https://codility.com/programmers/task/frog_jmp/)  
