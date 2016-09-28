@@ -28,3 +28,9 @@ Count minimal number of jumps from position X to Y.
 [ [100%] PermMissingElem](https://github.com/alexpechkarev/codility-lessons-js/blob/master/PermMissingElem.js)  
 Find the missing element in a given permutation.  
 [*View on Codility*](https://codility.com/programmers/task/perm_missing_elem/)  
+
+
+### Counting Elements
+[ [100%] PermCheck](https://github.com/alexpechkarev/codility-lessons-js/blob/master/PermCheck.js)  
+Check whether array A is a permutation.  
+[*View on Codility*](https://codility.com/programmers/task/perm_check/)  
