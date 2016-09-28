@@ -1,5 +1,5 @@
 /**
-* Iterations
+* Time Complexity
 * 
 * [100%] FrogJmp
 * https://codility.com/programmers/task/frog_jmp/
