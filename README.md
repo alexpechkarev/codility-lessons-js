@@ -24,3 +24,7 @@ Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
 [ [100%] FrogJmp](https://github.com/alexpechkarev/codility-lessons-js/blob/master/FrogJmp.js)  
 Count minimal number of jumps from position X to Y.  
 [*View on Codility*](https://codility.com/programmers/task/frog_jmp/)  
+
+[ [100%] PermMissingElem](https://github.com/alexpechkarev/codility-lessons-js/blob/master/PermMissingElem.js)  
+Find the missing element in a given permutation.  
+[*View on Codility*](https://codility.com/programmers/task/perm_missing_elem/)  
