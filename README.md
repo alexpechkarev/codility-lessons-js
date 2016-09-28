@@ -3,7 +3,7 @@
 Lessons
 ---------------
 ### Iterations  
-[100% Solution - BinaryGap](https://github.com/alexpechkarev/codility-lessons-js/blob/master/BinaryGap.js)  
+[ [100%] Solution - BinaryGap](https://github.com/alexpechkarev/codility-lessons-js/blob/master/BinaryGap.js)  
 Find longest sequence of zeros in binary representation of an integer.  
 [*View on Codility*](https://codility.com/programmers/task/binary_gap/)    
 
