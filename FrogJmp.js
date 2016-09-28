@@ -4,6 +4,7 @@
 * [100%] FrogJmp
 * https://codility.com/programmers/task/frog_jmp/
 * Count minimal number of jumps from position X to Y.
+* Detected time complexity: O(1)
 *
 * 28th September 2016
 */
