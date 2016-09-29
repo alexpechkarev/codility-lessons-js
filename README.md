@@ -36,5 +36,5 @@ Check whether array A is a permutation.
 [*View on Codility*](https://codility.com/programmers/task/perm_check/)  
 
 [ [100%] MissingInteger](https://github.com/alexpechkarev/codility-lessons-js/blob/master/MissingInteger.js)  
-Find the minimal positive integer not occurring in a given sequence. 
+Find the minimal positive integer not occurring in a given sequence.  
 [*View on Codility*](https://codility.com/programmers/task/missing_integer/)  
